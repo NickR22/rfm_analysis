@@ -10,3 +10,5 @@ Dans cette analyse, nous allons parcourir les étapes de la réalisation d'une a
 
 
 Le dataset utilisé pour cette demo provient de [The Online Retail Dataset from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail#).
+
+Dashboard lié à cette analyse disponible ici : [Dashboard Looker](https://lookerstudio.google.com/reporting/ce9d9987-9287-4a6d-ba74-42cf443f87d3)
